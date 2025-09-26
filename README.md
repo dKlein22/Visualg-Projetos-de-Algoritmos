@@ -3,7 +3,7 @@ Projetos realizados durante o curso de **Logica e Algoritmos** do Curso em Video
 
 Este repositório contém meus códigos feitos no **Visualg**, organizados por tema:
 
-- **01_basicos** → primeiros exercícios (soma, média, conversões simples)
+- **01_basicos** → primeiros exercícios (soma, média, conversões simples) [Acesse aqui](https://github.com/dKlein22/Visualg-Projetos-de-Algoritmos/tree/main/01-Básicos)
 - **02_condicionais** → estruturas de decisão (if/else)
 - **03_repeticao** → laços de repetição (for, while, repita)
 - **04_vetores** → exercícios com vetores
