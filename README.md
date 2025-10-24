@@ -1,5 +1,5 @@
 # Visualg-Projetos-de-Algoritmos
-Projetos realizados durante o curso de **Logica e Algoritmos** do _Curso em Video_.
+Projetos realizados durante o curso de **Logica e Algoritmos** do *__Curso em Video__*.
 
 Este repositório contém meus códigos feitos no **Visualg**, organizados por tema:
 
